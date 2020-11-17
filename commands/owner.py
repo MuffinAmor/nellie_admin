@@ -7,7 +7,7 @@ import os
 import json
 import aiohttp
 
-headers = {"Authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjUzMzM3MjYwNDM1MDk4ODI5OSIsImJvdCI6dHJ1ZSwiaWF0IjoxNTU5OTQ1NDk1fQ.bwri27GtxFBId6K5YE7GzxdnTH_TUb2aEAQrmrJ-3f8"}
+headers = {"Authorization": ""}
 
 client = commands.Bot(command_prefix='nl!')
 
