@@ -14,7 +14,7 @@ client = commands.Bot(command_prefix='nl! ')
 
 botcolor = 0x7CFC00
 
-apikey = "99DI7ZHACPMK"
+apikey = ""
 
 lmt = 8
 
